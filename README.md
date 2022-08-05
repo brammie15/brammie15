@@ -14,7 +14,9 @@ I've been coding for about 7 years now
 *   ⚡  I like cats alot<br><br>
 
 <a href="https://www.github.com/brammie15" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/brammie15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
+                  src="https://img.shields.io/github/followers/brammie15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills
+<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>>
@@ -31,10 +33,12 @@ I've been coding for about 7 years now
 ### Socials
                   
 <p align="left">
-                          
-<a href="https://discord.com/users/brammie15#3455" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<div>
+  <a href="https://discord.com/users/brammie15#3455" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
 <a href="https://www.github.com/brammie15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+</div>          
+
 
 ### Stats
 <br>
