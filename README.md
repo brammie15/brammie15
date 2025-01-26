@@ -4,10 +4,12 @@ Hi 👋 My name is Brammie15
 Web developer and Professional Idiot
 ------------------------------------
 
-I've been coding for about 7 years now 
+I've been coding for about 11 years now 
 - Java
 - Js
 - Python
+- C++
+- ASM (6502)
 <br>
 
 *   🧠  I'm learning Java and C++
